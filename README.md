@@ -18,4 +18,6 @@ Bem-vindo ao repositório de um projeto de Data Science que utiliza Python e Plo
 
 3. Faça upload do notebook que deseja utilizar.
 
-4. Execute os notebooks e explore as análises e visualizações.
+4. Baixe o arquivo csv disponibilizado.
+
+5. Execute os notebooks e explore as análises e visualizações.
